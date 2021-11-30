@@ -1,4 +1,5 @@
 #include <algorithm>
+#include <numeric>
 #include "queue-gang.h"
 #include "tracked-packet.h"
 
